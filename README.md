@@ -2,6 +2,8 @@
 
 (will add a small description of the project here)
 
+note: this read me section (and project) is unfinished, and have too much information down in the readme file which i will remove later. a lot of the information are just there to help me understand/remind myself of why i did what i did, during this project of autonomous learning
+
 **Technology used**:
 - Visual Studio Code
 - Jupyter Notebook
@@ -640,6 +642,7 @@ My files come with markdown cells to explain the code in an attempt to help the 
 
 
 > **Note:** You can **bold** your text in your note section.
+
 
 
 
