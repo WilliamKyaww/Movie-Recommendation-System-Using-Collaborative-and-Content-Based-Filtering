@@ -1,25 +1,12 @@
-# Welcome to my Movie Recommendation System!
+# Movie Recommendation System
 
-This project was **not** completed by following a tutorial but was actively self-learned with the help of LLMs.
-
-That being said, the AI generated sections of the code has been rigously checked, understood, documented and re-factored multiple times to my satisfaction. This ensures I fully understand what the code cell does and why, and avoids unnecessary noise sometimes created by LLMs. 
-
-As a novice programmer and AI/ML enthusiast, I took this opportunity to deepen my understanding of machine learning technologies, techniques, and approaches. 
-
-Additionally, I included markdown explanations before relevant code sections. These help me document my thought process and reasoning, as well as providing better context for anyone reviewing the code. I aimed to be concise, to avoid over-explaining simple concepts while ensuring clarity for more complex topics.
-
-I used a cell-specific import strategy, introducing libraries where needed instead of consolidating them at the beginning. This helps me understand which libraries are required for specific functions and makes dependencies clearer.
-
-
+(will add a small description of the project here)
 
 **Technology used**:
 - Visual Studio Code
 - Jupyter Notebook
 - Google Colab
-- Github
-- Chatgpt o3/Claude 3.7
 
-AI has been utilised to learn, refactor and generate some portions of my project. 
 
 **Libraries imported**
 - Os
@@ -653,5 +640,6 @@ My files come with markdown cells to explain the code in an attempt to help the 
 
 
 > **Note:** You can **bold** your text in your note section.
+
 
 
